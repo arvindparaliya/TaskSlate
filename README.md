@@ -59,10 +59,6 @@ Clone the repository:
 
 ---
 
-## App Preview
-Here’s how the app looks:
-
----
 
 ## Notes
 
