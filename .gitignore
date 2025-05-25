@@ -1,0 +1,19 @@
+# Eclipse-specific files
+.project
+.classpath
+.settings/
+
+# Output folders
+bin/
+target/
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Maven/Gradle
+.mvn/
